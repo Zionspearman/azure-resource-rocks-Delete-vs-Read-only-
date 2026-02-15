@@ -1,7 +1,7 @@
 # Azure Resource Locks Lab: Delete vs Read-only (RG vs Resource Scope)
 
 This repository supports my lab walkthrough video on using **Azure Resource Locks** to protect resources by applying **Delete** and **Read-only** locks at different scopes and validating what actions are blocked.  
-📺 **Watch the lab video on YouTube:** (add your link)
+📺 **Watch the lab video on YouTube:** https://youtu.be/DJrhMver36k
 
 ---
 
